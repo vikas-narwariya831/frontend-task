@@ -4,7 +4,7 @@ const BannerAndForm = () => {
   return (
     <div
       className="relative h-screen bg-center bg-cover"
-      style={{ backgroundImage: "url(src/assets/Banner.jpg)" }}
+      style={{ backgroundImage: "url(assets/Banner.jpg)" }}
     >
       <div className="absolute inset-0 grid items-center grid-cols-1 p-6 md:grid-cols-12 md:p-0">
         <div className="hidden md:block md:col-span-8"></div>

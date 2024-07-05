@@ -11,7 +11,7 @@ function Navbar() {
     <header className="py-4 bg-gradient-to-r from-emerald-100 via-white to-olive-200">
       <div className="container flex items-center justify-between px-4 mx-auto md:px-8">
         <div className="w-32 md:w-40">
-          <img src="src/assets/Logo.png" alt="Logo" />
+          <img src="assets/Logo.png" alt="Logo" />
         </div>
         <nav className="hidden gap-5 md:flex">
           {["Home", "Contact", "About"].map((item, index) => (

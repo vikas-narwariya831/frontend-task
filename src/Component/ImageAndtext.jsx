@@ -5,7 +5,7 @@ function ImageAndtext() {
     <div className="grid items-center justify-center grid-cols-1 gap-10 px-4 py-10 mx-auto md:grid-cols-2 md:py-28 md:gap-32">
       <div className="flex justify-center">
         <div className="w-40 md:w-[18rem]">
-          <img src="src/assets/Character.png" alt="Character" />
+          <img src="assets/Character.png" alt="Character" />
         </div>
       </div>
       <div className="px-4 text-center md:text-left">
